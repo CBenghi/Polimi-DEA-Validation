@@ -6794,6 +6794,12 @@ organizzativa) né quelli reali, che saranno in funzione di fattori da
 tenere comunque in conto quali, ad esempio, gli andamenti stagionale
 sfavorevoli.
 
+# Test di immagine
+
+![image info](./001/image1.svg.png) {width="6.8909722222222225in"
+  height="3.126388888888889in"}
+
+
 [^1]: Sullivan W.G:, Wicks E.M:, Luxhij J.T., 2006, Economia applicata
     all'ingegneria, Pearson Education, Milano.
 
@@ -7523,8 +7529,6 @@ sfavorevoli.
   [Lo schema di contratto (Art.43) 73]: #lo-schema-di-contratto-art.43
   [Il cronoprogramma (Art.40) 75]: #il-cronoprogramma-art.40
   [^\[2\]^]: https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=it%2DIT&rs=it%2DIT&wopisrc=https%3A%2F%2Fpolimi365-my.sharepoint.com%2Fpersonal%2F10002394_polimi_it%2F_vti_bin%2Fwopi.ashx%2Ffiles%2F2fc45d5fa6b3497893af91fbb4f1f21f&wdlor=c1F07E9FA-7EB5-41D6-9A71-773526B4DDD2&wdenableroaming=1&mscc=1&wdodb=1&hid=00000000-0000-0000-0000-000000000000&wdorigin=Outlook-Body&wdhostclicktime=1618153366256&jsapi=1&jsapiver=v1&newsession=1&corrid=2e75b8a2-283e-471b-ad42-c9362e9f05d0&usid=2e75b8a2-283e-471b-ad42-c9362e9f05d0&sftc=1&mtf=1&instantedit=1&wopicomplete=1&wdredirectionreason=Unified_SingleFlush&rct=Medium&ctp=LeastProtected#_ftn2
-  [1]: 001/image1.svg.png {width="6.8909722222222225in"
-  height="3.126388888888889in"}
   [articolo 11, della legge 16 gennaio 2003, n. 3]: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-01-16;3~art11
   [articolo 9, comma 2, del decreto-legge 24 aprile 2014, n. 66]: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66~art9-com2
   [legge 23 giugno 2014, n. 89]: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-06-23;89
